@@ -15,11 +15,10 @@
     <tr>
       <td width="60%">
         <ul>
-          <li>💼 Hiện tại đang làm việc với tư cách là <b>Backend Developer (Laravel)</b> tại <b>Hasaki Vietnam</b>.</li>
-          <li>🎓 Tốt nghiệp chuyên ngành <b>Backend Web Programming</b> tại <b>Cao đẳng FPT</b>.</li>
+          <li>💼 Hiện tại đang học tập với tư cách là <b>Backend Developer (Laravel)</b> tại <b>PTIT</b>.</li>
           <li>🌱 Đam mê nghiên cứu sâu về <b>System Architecture, Microservices, Design Patterns</b> và <b>Web Security</b>.</li>
           <li>⚡ Thích xây dựng các hệ thống backend mạnh mẽ, tối ưu hóa hiệu suất và mở rộng các ứng dụng thông minh.</li>
-          <li>🎯 Sở thích ngoài lề: <b>Ngủ </b> và nghiên cứu <b>Tâm lý học (Psychology)</b>.</li>
+          <li>🎯 Sở thích ngoài lề: <b>Ngủ </b> Ăn <b>Đi chơi</b>.</li>
         </ul>
       </td>
       <td width="40%" align="center">
@@ -34,9 +33,7 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Postbox.png" alt="Mailbox" width="30" height="30" /> Connect With Me
 
 <div align="center">
-  <a href="mailto:hhoang02052004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-huy-ho%C3%A0ng-435b96355/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.youtube.com/@PROGRAMMINGINSTRUCTIONS-ue3zt/featured"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="mailto:ruymej@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://viblo.asia/u/hhoang"><img src="https://img.shields.io/badge/Viblo-5488c7?style=for-the-badge&logo=vimeo&logoColor=white" alt="Viblo" /></a>
   <a href="https://stackoverflow.com/users/31177291/splendor-nguyen?tab=profile"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" /></a>
   <a href="https://dev.to/nguyn_huyhong_279ea4b5"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.TO" /></a>
@@ -88,6 +85,6 @@
 <br/>
 
 <div align="center">
-  <i>"Trân trọng, Nguyễn Huy Hoàng"</i>
+  <i>"Trân trọng, Trần Quang Long"</i>
 </div>
 
