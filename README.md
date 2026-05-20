@@ -39,7 +39,7 @@
   <a href="https://dev.to/nguyn_huyhong_279ea4b5"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.TO" /></a>
   <br/>
   <br/>
-  <img src="https://img.shields.io/badge/Phone_/_Zalo-0949-231-389-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo/Phone" />
+  <img src="https://img.shields.io/badge/Phone_/_Zalo-0949231389-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo/Phone" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
