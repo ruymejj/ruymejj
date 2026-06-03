@@ -15,7 +15,7 @@
     <tr>
       <td width="60%">
         <ul>
-          <li>💼 Hiện tại đang học tập với tư cách là <b>Backend Developer (Laravel)</b> tại <b>PTIT</b>.</li>
+          <li>💼 Hiện tại đang học tập tại <b>PTIT</b>.</li>
           <li>🌱 Đam mê nghiên cứu sâu về <b>System Architecture, Microservices, Design Patterns</b> và <b>Web Security</b>.</li>
           <li>⚡ Thích xây dựng các hệ thống backend mạnh mẽ, tối ưu hóa hiệu suất và mở rộng các ứng dụng thông minh.</li>
           <li>🎯 Sở thích ngoài lề: <b>Ngủ </b> Ăn <b>Đi chơi</b>.</li>
