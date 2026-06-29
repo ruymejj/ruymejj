@@ -81,7 +81,13 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117B85.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+# 🔥 GitHub Streak
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=nguyenminhtuan26127-creator&theme=tokyonight&hide_border=true"/>
+
+</div>
 <br/>
 
 <div align="center">
