@@ -34,9 +34,6 @@
 
 <div align="center">
   <a href="mailto:ruymej@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://viblo.asia/u/hhoang"><img src="https://img.shields.io/badge/Viblo-5488c7?style=for-the-badge&logo=vimeo&logoColor=white" alt="Viblo" /></a>
-  <a href="https://stackoverflow.com/users/31177291/splendor-nguyen?tab=profile"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" /></a>
-  <a href="https://dev.to/nguyn_huyhong_279ea4b5"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.TO" /></a>
   <br/>
   <br/>
   <img src="https://img.shields.io/badge/Phone_/_Zalo-0949231389-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo/Phone" />
